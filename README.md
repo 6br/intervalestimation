@@ -26,4 +26,4 @@ Please see help.
 
 ## Contributors
 
-- intervalestimation(https://github.com/intervalestimation) Arch - creator, maintainer
+- intervalestimation(https://github.com/intervalestimation) - creator, maintainer
